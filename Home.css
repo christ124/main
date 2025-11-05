@@ -4,7 +4,7 @@ html, body { height: 100%; font-family: "Georgia", "Times New Roman", serif; scr
 
 /* HERO SECTION */
 .hero {
-  background: url('./IMG/IMG_6686.JPG') center/cover no-repeat;
+  background: url('./img/IMG_6686.JPG') center/cover no-repeat;
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -457,3 +457,4 @@ color: white;
 position: relative;
 
 }
+
